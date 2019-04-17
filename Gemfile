@@ -40,6 +40,8 @@ gem 'simple_form', '~> 4.1'
 
 gem 'haml', '~> 5.0', '>= 5.0.4'
 
+gem 'jquery-rails'
+
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
  
